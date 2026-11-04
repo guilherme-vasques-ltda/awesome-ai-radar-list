@@ -29,4 +29,3 @@ Open an issue with the product name, official website, repository (if any), and 
 - [Radar Scout — Coding Tools](https://my-tierroom.party/coding)
 - [Radar Scout — Startup SaaS List](https://my-tierroom.party/startups)
 
-Inspired by the navigable, category-first format of [awesome-pentest](https://github.com/enaqx/awesome-pentest). This list uses its own descriptions and editorial structure.
