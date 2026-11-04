@@ -20,7 +20,7 @@ This is an independent selection by Guilherme Vasques. A listing is not an endor
 
 ## Submit a suggestion
 
-Open an issue with the product name, official website, repository (if any), and a short explanation of the problem it solves. Suggestions are reviewed before inclusion.
+Open an issue with the product name, official website, repository (if any), and a short explanation of the problem it solves. See [contribution guidelines](CONTRIBUTING.md). Suggestions are reviewed before inclusion.
 
 ## Related
 
