@@ -6,6 +6,8 @@ This is an independent selection by Guilherme Vasques. A listing is not an endor
 
 ## Browse by category
 
+[Live catalog on GitHub](live-catalog.md) syncs weekly with published Radar Scout entries. The curated lists below add editorial context.
+
 - [Personal AI agents and assistants](agents.md)
 - [Agentic development environments, harnesses and coding tools](coding-tools.md)
 - [Developer software and infrastructure](software.md)
